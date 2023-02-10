@@ -1,5 +1,5 @@
 /* eslint-disable no-undef */
-const {
+const { 
    nuevoString,
    nuevoNumero,
    nuevoBoolean,
